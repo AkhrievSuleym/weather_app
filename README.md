@@ -14,7 +14,12 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-
+## Features
+* Display of current temperature, humidity, wind speed
+* Weather forecast for 5 days
+* Search for cities by name
+* Using the WeatherAPI(https://www.weatherapi.com/)
+  
 ## Dependencies
 <details>
      <summary> Click to expand </summary>
