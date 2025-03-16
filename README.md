@@ -19,11 +19,10 @@ samples, guidance on mobile development, and a full API reference.
 * Weather forecast for 5 days
 * Search for cities by name
 * Using the WeatherAPI(https://www.weatherapi.com/)
-  
-Flutter 3.24.5 • channel stable • https://github.com/flutter/flutter.git
-Framework • revision dec2ee5c1f (4 months ago) • 2024-11-13 11:13:06 -0800
-Engine • revision a18df97ca5
-Tools • Dart 3.5.4 • DevTools 2.37.3
+
+## Version Information  
+* Flutter 3.24.5 • channel stable • https://github.com/flutter/flutter.git
+* Tools • Dart 3.5.4 • DevTools 2.37.3
 
 ## Dependencies
 <details>
