@@ -1,30 +1,31 @@
 # Weather_App
 
-A simple Flutter app  to view the weather in any city. 
+Простое приложение Flutter для просмотра погоды в любом городе.
 
-## Getting Started
+## Начало работы
 
-This project is a starting point for a Flutter application.
+Этот проект является отправной точкой для создания приложения Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+Несколько ресурсов для начала работы, если это ваш первый проект на Flutter:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-## Features
-* Display of current temperature, humidity, wind speed
-* Weather forecast for 5 days
-* Search for cities by name
-* Using the WeatherAPI(https://www.weatherapi.com/)
+Для помощи в начале разработки на Flutter просмотрите
+[online documentation](https://docs.flutter.dev/), где представлены учебники,
+примеры, руководство по мобильной разработке и полный справочник API.
 
-## Version Information  
-* Flutter 3.24.5 • channel stable • https://github.com/flutter/flutter.git
-* Tools • Dart 3.5.4 • DevTools 2.37.3
+## Возможности
+* Отображение текущей температуры, влажности, скорости ветра
+* Прогноз погоды на 5 дней
+* Поиск городов по названию
+* Использование WeatherAPI(https://www.weatherapi.com/)
 
-## Dependencies
+## Информация о версиях
+* Flutter 3.24.5 - канал стабильный - https://github.com/flutter/flutter.git
+* Инструменты - Dart 3.5.4 - DevTools 2.37.3
+
+## Зависимости
 <details>
      <summary> Click to expand </summary>
      
@@ -47,7 +48,7 @@ samples, guidance on mobile development, and a full API reference.
 * [animations](https://pub.dev/packages/animations)
   </details>
   
-## Screenshots
+## Снимки экрана
 <p align="center">
      <img src="https://github.com/user-attachments/assets/2dea9996-c88e-48a5-ab59-d39113d1e9fe" style="width: 200px; height: auto;">
      <img src="https://github.com/user-attachments/assets/e30e5a1d-2aa9-40a8-ba0b-af9c2dd70d08" style="width: 200px; height: auto;">
